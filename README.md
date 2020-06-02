@@ -30,7 +30,7 @@
   * The header must be in a parent component, with no repeating code between routes.
   
 ## Instructions to Run
-  * Clone the repository and run `yarn` to install the dependencies and `yarn start` to run the server.
+  * Clone the repository, run `yarn` to install the dependencies and `yarn start` to run the server.
   
 ## Additional Information
   None (:
