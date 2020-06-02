@@ -14,14 +14,14 @@
   
   ## Acceptance criteria
   * Your routes must be organized the with parent and child like described below:
-    * App (”/” route and has the header of the application) - **Parent**
-      * Update user (”/update-user” route with the inputs to change first and last name) - **Child**
-      * User info (”/user” route with the user information that was saved) - **Child**
-  * The save button should only appear in the “/update-user” route;
+    * App (`/` route and has the header of the application) - **Parent**
+      * Update user (`/update-user` route with the inputs to change first and last name) - **Child**
+      * User info (`/user` route with the user information that was saved) - **Child**
+  * The save button should only appear in the `/update-user` route;
   * The header must be defined in the parent route;
   * Both routes must be children to the parent route;
   * The inputs must show the user first and last name if they were already between changing routes;
-  * The “/user” route must only update values if the user clicked on save on the “/update-user” route;
+  * The `/user` route must only update values if the user clicked on save on the `/update-user` route;
   * No console warnings are acceptable.
   
 ## Prerequisites
