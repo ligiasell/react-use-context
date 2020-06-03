@@ -1,4 +1,4 @@
-# Jungle Devs - Frontend Challenge #004
+# Jungle Devs - React Challenge #002
 
   ## Description
   **Challenge goal**: The goal of this challenge is for you to organise your routes with Reach Router and use React Context API to have a global state and avoid prop drilling in complex scenarios. The challenge proposed is a very common issue in the web development world! Get ready!
