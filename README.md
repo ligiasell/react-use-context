@@ -9,7 +9,7 @@
   
   
   ## Resources
-  **Design**: **PENDING**
+  **Design**: https://zpl.io/aXARkrE
   
   
   ## Acceptance criteria
